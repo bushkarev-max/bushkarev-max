@@ -1,4 +1,8 @@
-# Max Bushkarev
+<p align="center">
+  <img src="./github-profile-fullbody.png" alt="Pixel-art character of Max Bushkarev" width="260" />
+</p>
+
+<h1 align="center">Max Bushkarev</h1>
 
 **AI Products · Automation · Vibe Coding**
 
