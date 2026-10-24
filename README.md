@@ -1,16 +1,34 @@
-## Hi there 👋
+# Max Bushkarev
 
-<!--
-**bushkarev-max/bushkarev-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Products · Automation · Vibe Coding**
 
-Here are some ideas to get you started:
+*From ideas to working digital products.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build useful AI-powered tools, explore new technologies, and turn experiments into real products.
+
+---
+
+## What I'm building
+
+| Direction | Focus |
+|---|---|
+| **AI Products** | Intelligent assistants and practical AI-powered applications |
+| **Automation** | Connecting services, APIs, and workflows |
+| **Vibe Coding** | Building and testing products with AI-assisted development |
+| **Experiments** | Research, rapid prototypes, and new ideas |
+
+## Selected work
+
+**[Codexify](https://github.com/bushkarev-max/codexify)** — My fork of an open-source tool connecting Codex with ChatGPT.
+
+**[Blog & Experiments](https://blog.bushkarev.ru)** — Notes on AI tools, development, automation, and real-world experiments.
+
+*More projects are in development. Some repositories remain private.*
+
+## Connect
+
+[Website](https://bushkarev.ru) · [Blog](https://blog.bushkarev.ru) · [Telegram](https://t.me/supaimax) · [Instagram](https://www.instagram.com/bushkarev/)
+
+---
+
+*Build. Test. Learn. Improve.*
